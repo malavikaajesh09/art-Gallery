@@ -1,4 +1,5 @@
 
+# Handle user accounts, visitor registration, and ticket bookings.
 from flask import Blueprint, request, redirect, render_template_string, session, render_template_string, session, render_template_string, session
 from config import db, cursor
 

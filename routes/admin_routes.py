@@ -1,4 +1,5 @@
 
+# Provide the admin dashboard and gallery revenue reports.
 from flask import Blueprint, request, redirect
 from config import db, cursor
 

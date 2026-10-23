@@ -1,4 +1,5 @@
 
+# Handle adding, updating, and deleting gallery artifacts.
 from flask import Blueprint, request, redirect, render_template_string
 from config import db, cursor
 

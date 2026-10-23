@@ -1,3 +1,4 @@
+# Create the shared MySQL connection and cursor for gallery data.
 import mysql.connector
 db = mysql.connector.connect(
     host="localhost",

@@ -1,4 +1,5 @@
 
+# Handle employee records and their management forms.
 from flask import Blueprint, request, redirect, render_template_string, render_template_string, render_template_string
 from config import db, cursor
 import re

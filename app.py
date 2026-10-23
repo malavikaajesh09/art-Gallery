@@ -1,3 +1,4 @@
+# Initialize the gallery application and serve its home page.
 from flask import Flask, render_template_string
 from routes.user_routes import user_bp
 from routes.employee_routes import employee_bp

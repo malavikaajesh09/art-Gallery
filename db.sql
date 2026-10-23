@@ -1,3 +1,4 @@
+-- Define the gallery database schema, seed data, and artifact count triggers.
 -- create database art_gallery;
 --use art_gallery;
 
